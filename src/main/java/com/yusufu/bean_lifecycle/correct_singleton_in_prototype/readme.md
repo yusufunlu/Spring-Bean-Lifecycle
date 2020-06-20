@@ -1,0 +1,1 @@
+Singleton bean in prototype is singleton which means context still managing inner singleton bean instead of parent prototype bean 
